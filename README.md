@@ -9,9 +9,7 @@ A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字�
 
 但是，这款可爱的开源字体，仍然缺少一部分简体字，这对于大陆的用户来说，可能会造成一些不便。
 
-于是，本人开启了 [“濑户内海字体简体补全计划”](https://github.com/lxgw/seto-naikai-font-supplement-for-sc) ，旨在补足 [濑户字体](http://setofont.osdn.jp/) 和 [内海字体](https://github.com/max32002/naikaifont) 缺少的简体字，并把合并后的版本上传到了 [极限论坛](https://bbs.themex.net/showthread.php?t=16906268) 。
-
-后来，[猫啃网](http://www.maoken.com) （一个收录免费商用字体的网站）将合并的字体收录了进去（[详情](https://www.maoken.com/freefonts/4306.html)）。收录之后，猫啃网用户“猫啃新人”又对合并的字体文件进行了修改和优化。本字体是在猫啃新人的版本上继续完善制成的。
+于是，本人开启了 [“濑户内海字体简体补全计划”](https://github.com/lxgw/seto-naikai-font-supplement-for-sc) ，旨在补足 [濑户字体](http://setofont.osdn.jp/) 和 [内海字体](https://github.com/max32002/naikaifont) 缺少的简体字。 **小濑字体** 是这一计划的延续，目前已有汉字 19599 个，其中 CJK 基本区汉字 18534 个，CJK 扩展 A 区汉字 262 个，B 区汉字 368 个，C 区汉字 44 个，D 区汉字 9 个，E 区汉字 108 个，F 区汉字 1 个。
 
 ## 预览
 待完善
@@ -29,6 +27,10 @@ A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字�
   - 免费使用，包括商用，无需付费、告知或标明原作者；
   - 自由分享字体文件，并将其安装在任何软件/设备中；
   - 在此基础上进行修改或二次创作。
+  
+## 鸣谢
+- 感谢 [濑户字体](http://setofont.osdn.jp/) 开源项目以及 Max 的 [内海字体](https://github.com/max32002/naikaifont) 开源项目。
+- 感谢 [猫啃网](http://www.maoken.com) 用户 **猫啃新人** 的修正与优化。 [详情](https://www.maoken.com/freefonts/4306.html)
 
 ## 联系作者
 
