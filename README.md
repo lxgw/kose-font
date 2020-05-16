@@ -1,7 +1,7 @@
 # 小濑字体 / 小瀨字體 / 小瀬フォント / Kose Font
 A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字体](http://setofont.osdn.jp/) / [内海字体](https://github.com/max32002/naikaifont) 的中文字体。
 
-## 字体概述
+## 项目简介
 
 [濑户字体](http://setofont.osdn.jp/) 是由日本的业余字体设计师 瀬戸のぞみ 制作，支持 JIS 第一至第四级，支持繁体和简体中文（部分）。目前最新的版本是 2014 年 9 月 24 日的 6.20 版本，原作者已经很久不更新了。
 
@@ -9,7 +9,13 @@ A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字�
 
 但是，这款可爱的开源字体，仍然缺少一部分简体字，这对于大陆的用户来说，可能会造成一些不便。
 
-于是，本人开启了 [“濑户内海字体简体补全计划”](https://github.com/lxgw/seto-naikai-font-supplement-for-sc) ，旨在补足 [濑户字体](http://setofont.osdn.jp/) 和 [内海字体](https://github.com/max32002/naikaifont) 缺少的简体字。 [**小濑字体**](https://github.com/lxgw/kose-font/) 是这一计划的延续，目前已有汉字 19599 个，其中 CJK 基本区汉字 18534 个，CJK 扩展 A 区汉字 262 个，B 区汉字 368 个，C 区汉字 44 个，D 区汉字 9 个，E 区汉字 108 个，F 区汉字 1 个。
+于是，本人开启了 [“濑户内海字体简体补全计划”](https://github.com/lxgw/seto-naikai-font-supplement-for-sc) ，旨在补足 [濑户字体](http://setofont.osdn.jp/) 和 [内海字体](https://github.com/max32002/naikaifont) 缺少的简体字。 [**小濑字体**](https://github.com/lxgw/kose-font/) 是这一计划的延续。
+
+## 字体概况
+
+本字体是 [濑户字体](http://setofont.osdn.jp/) / [内海字体](https://github.com/max32002/naikaifont) 的简体中文化改良，利用濑户/内海字体里原有的部件，对原字体中缺少的汉字进行补足。目前已有汉字 19599 个，其中 CJK 基本区汉字 18534 个，CJK 扩展 A 区汉字 262 个，B 区汉字 368 个，C 区汉字 44 个，D 区汉字 9 个，E 区汉字 108 个，F 区汉字 1 个。
+
+该字体可显示 GB2312-80 范围内的全部汉字（共 6763 个），以及《通用规范汉字表》里的全部汉字（共 8105 个），满足中国大陆用户的使用需要。
 
 ## 预览
 ![Y6xWLT.png](https://s1.ax1x.com/2020/05/16/Y6xWLT.png)
