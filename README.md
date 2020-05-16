@@ -11,7 +11,7 @@ A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字�
 
 于是，本人开启了 [“濑户内海字体简体补全计划”](https://github.com/lxgw/seto-naikai-font-supplement-for-sc) ，旨在补足 [濑户字体](http://setofont.osdn.jp/) 和 [内海字体](https://github.com/max32002/naikaifont) 缺少的简体字，并后把合并的版本上传到了 [极限论坛](https://bbs.themex.net/showthread.php?t=16906268) 。
 
-后来，[猫啃网](http://www.maoken.com) （一个收录免费施用字体的网站）将合并的字体收录了进去（[详情](https://www.maoken.com/freefonts/4306.html)）。收录之后猫啃网用户“猫啃新人”又对合并的字体文件进行了修改和优化。本字体是在猫啃新人的版本上继续完善制成的。
+后来，[猫啃网](http://www.maoken.com) （一个收录免费商用字体的网站）将合并的字体收录了进去（[详情](https://www.maoken.com/freefonts/4306.html)）。收录之后猫啃网用户“猫啃新人”又对合并的字体文件进行了修改和优化。本字体是在猫啃新人的版本上继续完善制成的。
 
 ## 预览
 待完善
@@ -20,6 +20,7 @@ A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字�
 
 1. 本字体可以显示所有 GB 2312 及“通用规范汉字表”里的所有汉字，不过制作时间比较仓促，不保证里面所有的字形都是中国大陆的规范字形，欢迎大家通过 Issues 反馈。
 2. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感，但是聊胜于无。
+3. 欢迎大家对该字体进行补字或修正，您可以通过下面的联系方式与作者联系。
 
 ## 版权信息
 
@@ -31,11 +32,9 @@ A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字�
 
 ## 联系作者
 
-Telegram：@lxgwtg
-
-微信公众号：霞鹜（lxgwshare）
-
-酷安：@落霞孤鹜lxgw
-
-微博：@孤鹜先森
+- **Telegram：** @lxgwtg
+- **微信公众号：** 霞鹜 *（lxgwshare）*
+- **酷安：** @落霞孤鹜lxgw
+- **微博：** @孤鹜先森
+- **Email：** calxgw2018@gmail.com srtong2006@126.com
 
