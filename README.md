@@ -35,8 +35,8 @@ A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字�
 ## 联系作者
 
 - **Telegram：** @lxgwtg
-- **微信公众号：** 霞鹜 *（lxgwshare）*
-- **酷安：** @落霞孤鹜lxgw
-- **微博：** @孤鹜先森
+- **微信公众号：** 霞鹜 *（ID: lxgwshare）*
+- **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884)
+- **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 - **Email：** calxgw2018@gmail.com srtong2006@126.com
 
