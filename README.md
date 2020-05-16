@@ -9,7 +9,7 @@ A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字�
 
 但是，这款可爱的开源字体，仍然缺少一部分简体字，这对于大陆的用户来说，可能会造成一些不便。
 
-于是，本人开启了 [“濑户内海字体简体补全计划”](https://github.com/lxgw/seto-naikai-font-supplement-for-sc) ，旨在补足 [濑户字体](http://setofont.osdn.jp/) 和 [内海字体](https://github.com/max32002/naikaifont) 缺少的简体字。 **小濑字体** 是这一计划的延续，目前已有汉字 19599 个，其中 CJK 基本区汉字 18534 个，CJK 扩展 A 区汉字 262 个，B 区汉字 368 个，C 区汉字 44 个，D 区汉字 9 个，E 区汉字 108 个，F 区汉字 1 个。
+于是，本人开启了 [“濑户内海字体简体补全计划”](https://github.com/lxgw/seto-naikai-font-supplement-for-sc) ，旨在补足 [濑户字体](http://setofont.osdn.jp/) 和 [内海字体](https://github.com/max32002/naikaifont) 缺少的简体字。 [**小濑字体**](https://github.com/lxgw/kose-font/) 是这一计划的延续，目前已有汉字 19599 个，其中 CJK 基本区汉字 18534 个，CJK 扩展 A 区汉字 262 个，B 区汉字 368 个，C 区汉字 44 个，D 区汉字 9 个，E 区汉字 108 个，F 区汉字 1 个。
 
 ## 预览
 待完善
