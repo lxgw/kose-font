@@ -9,9 +9,9 @@ A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字�
 
 但是，这款可爱的开源字体，仍然缺少一部分简体字，这对于大陆的用户来说，可能会造成一些不便。
 
-于是，本人开启了 [“濑户内海字体简体补全计划”](https://github.com/lxgw/seto-naikai-font-supplement-for-sc) ，旨在补足 [濑户字体](http://setofont.osdn.jp/) 和 [内海字体](https://github.com/max32002/naikaifont) 缺少的简体字，并后把合并的版本上传到了 [极限论坛](https://bbs.themex.net/showthread.php?t=16906268) 。
+于是，本人开启了 [“濑户内海字体简体补全计划”](https://github.com/lxgw/seto-naikai-font-supplement-for-sc) ，旨在补足 [濑户字体](http://setofont.osdn.jp/) 和 [内海字体](https://github.com/max32002/naikaifont) 缺少的简体字，并把合并后的版本上传到了 [极限论坛](https://bbs.themex.net/showthread.php?t=16906268) 。
 
-后来，[猫啃网](http://www.maoken.com) （一个收录免费商用字体的网站）将合并的字体收录了进去（[详情](https://www.maoken.com/freefonts/4306.html)）。收录之后猫啃网用户“猫啃新人”又对合并的字体文件进行了修改和优化。本字体是在猫啃新人的版本上继续完善制成的。
+后来，[猫啃网](http://www.maoken.com) （一个收录免费商用字体的网站）将合并的字体收录了进去（[详情](https://www.maoken.com/freefonts/4306.html)）。收录之后，猫啃网用户“猫啃新人”又对合并的字体文件进行了修改和优化。本字体是在猫啃新人的版本上继续完善制成的。
 
 ## 预览
 待完善
