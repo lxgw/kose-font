@@ -12,7 +12,11 @@ A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字�
 于是，本人开启了 [“濑户内海字体简体补全计划”](https://github.com/lxgw/seto-naikai-font-supplement-for-sc) ，旨在补足 [濑户字体](http://setofont.osdn.jp/) 和 [内海字体](https://github.com/max32002/naikaifont) 缺少的简体字。 [**小濑字体**](https://github.com/lxgw/kose-font/) 是这一计划的延续，目前已有汉字 19599 个，其中 CJK 基本区汉字 18534 个，CJK 扩展 A 区汉字 262 个，B 区汉字 368 个，C 区汉字 44 个，D 区汉字 9 个，E 区汉字 108 个，F 区汉字 1 个。
 
 ## 预览
-待完善
+![Y6xWLT.png](https://s1.ax1x.com/2020/05/16/Y6xWLT.png)
+![Y6x4wF.png](https://s1.ax1x.com/2020/05/16/Y6x4wF.png)
+![JDOyIs.png](https://s1.ax1x.com/2020/04/24/JDOyIs.png)
+![Y6x5o4.png](https://s1.ax1x.com/2020/05/16/Y6x5o4.png)
+![Y6xheU.png](https://s1.ax1x.com/2020/05/16/Y6xheU.png)
 
 ## 注意事项
 
