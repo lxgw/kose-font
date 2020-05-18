@@ -17,6 +17,10 @@ A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字�
 
 该字体可显示 GB2312-80 范围内的全部汉字（共 6763 个），以及《通用规范汉字表》里的全部汉字（共 8105 个），满足中国大陆用户的使用需要。
 
+## 更新日志
+
+[点击此处](https://github.com/lxgw/kose-font/blob/master/history.md) 查看更新日志。
+
 ## 预览
 ![Y6xWLT.png](https://s1.ax1x.com/2020/05/16/Y6xWLT.png)
 ![Y6x4wF.png](https://s1.ax1x.com/2020/05/16/Y6x4wF.png)
