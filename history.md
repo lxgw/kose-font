@@ -1,3 +1,7 @@
+## ver 2.12 (2020-5-20)
+- 修改了一些汉字的写法。详见下图。
+![YohRgI.png](https://s1.ax1x.com/2020/05/20/YohRgI.png)
+
 ## ver 2.11 (2020-5-19)
 - 猫啃网用户“猫啃新人”为该字体新增 OpenType 特性。在使用ps等支持Opentype功能的软件对文字进行竖排显示时，一些标点的显示会更合理。而且由于新添加了一些日本漫画常会用到的特殊符号如连续波浪线或斜叹号等，若有日漫汉化组使用该字体的话，嵌字会更加方便。详见 [OpenType_Features.md](https://github.com/lxgw/kose-font/blob/master/OpenType_Features.md)
 
