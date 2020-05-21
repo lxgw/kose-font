@@ -25,8 +25,7 @@ A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字�
 ![Y6xWLT.png](https://s1.ax1x.com/2020/05/16/Y6xWLT.png)
 ![Y6x4wF.png](https://s1.ax1x.com/2020/05/16/Y6x4wF.png)
 ![JDOyIs.png](https://s1.ax1x.com/2020/04/24/JDOyIs.png)
-![Y6x5o4.png](https://s1.ax1x.com/2020/05/16/Y6x5o4.png)
-![Yc2uIe.png](https://s1.ax1x.com/2020/05/16/Yc2uIe.png)
+![YLQlfH.png](https://s1.ax1x.com/2020/05/22/YLQlfH.png)
 ![Y6xheU.png](https://s1.ax1x.com/2020/05/16/Y6xheU.png)
 小濑字体支持很多 OpenType 特性用于排版。[点此查看详情](https://github.com/lxgw/kose-font/blob/master/OpenType_Features.md)
 
