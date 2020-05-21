@@ -1,3 +1,7 @@
+## ver 2.21 (2020-5-22)
+- 修改了帽、拜、肩、扉、耀、肭的写法。详见下图。
+![YqEoxU.png](https://s1.ax1x.com/2020/05/21/YqEoxU.png)
+
 ## ver 2.20 (2020-5-21)
 - 修改了一些汉字的写法。详见下图。
 ![YHJJ2j.gif](https://s1.ax1x.com/2020/05/21/YHJJ2j.gif)
