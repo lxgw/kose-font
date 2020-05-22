@@ -32,7 +32,7 @@ A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字�
 ## 字体下载
 
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包
-2. 进入 [码云（Gitee）镜像](https://gitee.com/lxgw2020/kose-font) 点击【克隆/下载】->【下载 ZIP】下载 ZIP 格式压缩包
+2. 进入 [码云（Gitee）镜像](https://gitee.com/lxgw2020/kose-font) 点击【克隆/下载】->【下载 ZIP】下载 ZIP 格式压缩包 *（供无法正常使用 GitHub 下载功能的地区使用，可能不是最新）*
 3. 进入 [猫啃网](https://www.maoken.com/freefonts/4306.html) 下载 *（可能不是最新）*
 
 ## 注意事项
