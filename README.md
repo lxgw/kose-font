@@ -29,6 +29,12 @@ A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字�
 ![Y6xheU.png](https://s1.ax1x.com/2020/05/16/Y6xheU.png)
 小濑字体支持很多 OpenType 特性用于排版。[点此查看详情](https://github.com/lxgw/kose-font/blob/master/OpenType_Features.md)
 
+## 字体下载
+
+1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包
+2. 进入 [码云镜像](https://github.com/lxgw/kose-font/) 点击【克隆/下载】->【下载 ZIP】下载 ZIP 格式压缩包
+3. 进入 [猫啃网](https://www.maoken.com/freefonts/4306.html) 下载 *（可能不是最新）*
+
 ## 注意事项
 
 1. 本字体可以显示所有 GB 2312 及“通用规范汉字表”里的所有汉字，不过制作时间比较仓促，不保证里面所有的字形都是中国大陆的规范字形，欢迎大家通过 Issues 反馈。
