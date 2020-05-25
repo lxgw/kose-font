@@ -3,7 +3,7 @@
 ![tPZ42T.png](https://s1.ax1x.com/2020/05/26/tPZ42T.png)
 - 新增“biáng”字（U+30EDD、U+30EDE）  
 ![tPZbZ9.png](https://s1.ax1x.com/2020/05/26/tPZbZ9.png)
-- 添加了利用 OpenType 连字功能打出一些目前普通输入法根本打不出生僻字的功能。  
+- 添加了利用 OpenType 连字功能打出一些目前普通输入法根本打不出生僻字的功能。理论上支持 OpenType 功能的软件（如 PS、AI 等）都能打出来，但需要开启 OpenType 连字功能。Word 2016 需要在“字体”对话框内点击“高级”选项卡，将“OpenType 功能”里的“连字”选择为“历史和任意”或“全部”。  
 ![tPZ5xU.png](https://s1.ax1x.com/2020/05/26/tPZ5xU.png)
 
 ## ver 2.21 (2020-5-22) *第四次修正*
