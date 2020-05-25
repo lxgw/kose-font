@@ -1,3 +1,11 @@
+## ver 2.22 (2020-5-25)
+- 修改了“异”、“阴”、“阳”。  
+![tPZ42T.png](https://s1.ax1x.com/2020/05/26/tPZ42T.png)
+- 新增“biáng”字（U+30EDD、U+30EDE）  
+![tPZbZ9.png](https://s1.ax1x.com/2020/05/26/tPZbZ9.png)
+- 添加了利用 OpenType 连字功能打出一些目前普通输入法根本打不出生僻字的功能。  
+![tPZ5xU.png](https://s1.ax1x.com/2020/05/26/tPZ5xU.png)
+
 ## ver 2.21 (2020-5-22) *第四次修正*
 - 修改了一些汉字的写法。详见下图。  
 ![YqwdXD.gif](https://s1.ax1x.com/2020/05/21/YqwdXD.gif)
