@@ -23,7 +23,7 @@ A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字�
 
 ## 预览
 ![Y6xWLT.png](https://s1.ax1x.com/2020/05/16/Y6xWLT.png)
-![Y6x4wF.png](https://s1.ax1x.com/2020/05/16/Y6x4wF.png)
+![tk6j2j.png](https://s1.ax1x.com/2020/05/27/tk6j2j.png)
 ![JDOyIs.png](https://s1.ax1x.com/2020/04/24/JDOyIs.png)
 ![YLO5vt.png](https://s1.ax1x.com/2020/05/22/YLO5vt.png)
 ![Y6xheU.png](https://s1.ax1x.com/2020/05/16/Y6xheU.png)
