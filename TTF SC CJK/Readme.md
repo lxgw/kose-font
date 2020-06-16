@@ -1,4 +1,4 @@
-## 小濑字体 CJK SC
+# 小濑字体 CJK SC
 
 本文件夹内的字体文件用 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 补全，可显示思源黑体的所有字符，包括 GB18030-2000 范围内的所有汉字，以及韩文音节。
 
