@@ -17,6 +17,8 @@ A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字�
 
 该字体可显示 GB2312-80 范围内的全部汉字（共 6763 个），以及《通用规范汉字表》里的全部汉字（共 8105 个），满足中国大陆用户的使用需要。
 
+现有用 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 补全的 [「小濑字体 CJK」](https://github.com/lxgw/kose-font/tree/master/TTF%20SC%20CJK) ，可显示思源黑体的所有字符，包括 GB18030-2000 范围内的所有汉字，以及韩文音节。字库更全，可用作手机字体。**日后可能会用全濑的字形，去修复小濑里比较丑的、有违和感的字形。以后的更新将会直接在补全版本** *（即小濑字体 CJK）* **的基础上进行。**
+
 ## 更新日志
 
 [点击此处](https://github.com/lxgw/kose-font/blob/master/history.md) 查看更新日志。
