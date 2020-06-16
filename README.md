@@ -64,3 +64,4 @@ A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字�
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 - **Email：** calxgw2018@gmail.com srtong2006@126.com
 
+## 打赏支持
