@@ -65,3 +65,4 @@ A Chinese Font derived from SetoFont / Naikai Font.  一款衍生于 [濑户字�
 - **Email：** calxgw2018@gmail.com srtong2006@126.com
 
 ## 打赏支持
+[点击进入打赏页面。](https://github.com/lxgw/kose-font/blob/master/Donate.md)
