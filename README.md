@@ -13,13 +13,15 @@ A Chinese Font derived from SetoFont / Naikai Font / cjkFonts-AllSeto.  一款�
 
 于是，本人开启了 [“濑户内海字体简体补全计划”](https://github.com/lxgw/seto-naikai-font-supplement-for-sc) ，旨在补足 [濑户字体](http://setofont.osdn.jp/) 和 [内海字体](https://github.com/max32002/naikaifont) 缺少的简体字。 [**小赖字体**](https://github.com/lxgw/kose-font/) 是这一计划的延续。 
 
-本字体原名为**「小濑字体」**，后来由于很多人都把「濑」打成「赖」，索性把「氵」去掉，改名**「小赖字体」**。
+本字体原名为 **「小濑字体」** ，后来由于很多人都把「濑」打成「赖」，索性把「氵」去掉，改名 **「小赖字体」** 。
 
 ## 字体概况
 
 本字体是 [濑户字体](http://setofont.osdn.jp/) / [内海字体](https://github.com/max32002/naikaifont) 的简体中文化改良，利用濑户/内海字体里原有的部件，对原字体中缺少的汉字进行补足，主要为 GB2312 及《通用规范汉字表》里的汉字，其余的汉字、谚文、特殊符号用 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 补全。现有 CJK 基本区汉字 20949 个，扩展 A 区汉字 6582 个，B 区汉字 368 个，C 区汉字 44 个，D 区汉字 9 个，E 区汉字 108 个，F 区汉字 1 个（「韡」的简体字「𮧵（U+2E9F5）」），G 区汉字 2 个（biáng 字的简繁体「𰻝」（U+30EDD）「𰻞」（U+30EDE））。
 
 该字体可显示 GB18030-2000 范围内的全部汉字（共 27484 个），以及《通用规范汉字表》里的全部汉字（共 8105 个），满足中国大陆用户的使用需要。此外可显示日文假名、谚文 *（韩文、朝鲜文）* 音节和思源黑体可以显示的特殊符号。
+
+此外新增日本写法的字体，保留「濑户字体」原汁原味的日系风格。日本版保留原 **「小濑字体（Kosefont-JP）」** 名称。
 
 ## 更新日志
 
