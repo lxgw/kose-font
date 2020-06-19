@@ -33,7 +33,7 @@ A Chinese Font derived from SetoFont / Naikai Font / cjkFonts-AllSeto.  一款�
 ![JDOyIs.png](https://s1.ax1x.com/2020/04/24/JDOyIs.png)
 ![YLO5vt.png](https://s1.ax1x.com/2020/05/22/YLO5vt.png)
 ![Y6xheU.png](https://s1.ax1x.com/2020/05/16/Y6xheU.png)
-小濑字体支持很多 OpenType 特性用于排版。[点此查看详情](https://github.com/lxgw/kose-font/blob/master/OpenType_Features.md)
+小赖字体支持很多 OpenType 特性用于排版。[点此查看详情](https://github.com/lxgw/kose-font/blob/master/OpenType_Features.md)
 
 ## 字体下载
 
