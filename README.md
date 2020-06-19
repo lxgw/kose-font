@@ -13,7 +13,7 @@ A Chinese Font derived from SetoFont / Naikai Font / cjkFonts-AllSeto.  一款�
 
 于是，本人开启了 [“濑户内海字体简体补全计划”](https://github.com/lxgw/seto-naikai-font-supplement-for-sc) ，旨在补足 [濑户字体](http://setofont.osdn.jp/) 和 [内海字体](https://github.com/max32002/naikaifont) 缺少的简体字。 [**小赖字体**](https://github.com/lxgw/kose-font/) 是这一计划的延续。 
 
-本字体原名为 **「小濑字体」** ，后来由于很多人都把「濑」打成「赖」，索性把「氵」去掉，改名 **「小赖字体」** 。
+本字体项目为 **「小濑字体」** ，后来由于很多人都把「濑」打成「赖」，索性把「氵」去掉，改名 **「小赖字体」** 。
 
 ## 字体概况
 
