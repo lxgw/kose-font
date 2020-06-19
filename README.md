@@ -1,5 +1,6 @@
 # 小赖字体 / 小賴字體 / シャオライ / Xiaolai Font
-*(原名：小濑字体 / 小瀨字體 / 小瀬フォント / Kose Font)*
+*(原名：小濑字体 / 小瀨字體 / 小瀬フォント / Kose Font)*  
+
 A Chinese Font derived from SetoFont / Naikai Font / cjkFonts-AllSeto.  一款衍生于 [濑户字体](http://setofont.osdn.jp/) / [内海字体](https://github.com/max32002/naikaifont) / [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 的中文字体。
 
 ## 项目简介
