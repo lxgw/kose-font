@@ -44,6 +44,7 @@ A Chinese Font derived from SetoFont / Naikai Font / cjkFonts-AllSeto.  一款�
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
 2. 进入 [码云（Gitee）镜像](https://gitee.com/lxgw2020/kose-font) 点击【克隆/下载】->【下载 ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。 *（供无法正常使用 GitHub 下载功能的地区使用，可能不是最新）*
 3. 进入 [猫啃网](https://www.maoken.com/freefonts/4306.html) 下载 *（由用户“猫啃新人”维护，可能与本项目的更新方向不同。）*
+4. 对需要 root 替换系统字体的提供 Magisk 字体替换模块。下载地址： [蓝奏云密码：8h5h](https://lxgw.lanzous.com/b0cqan5yb) ，共 5 字重。 *（由于 Fontforge 速度太慢，使用 FontCreator 加粗/减细，可能有一定的变形，且粗体看起来会糊。）*
 
 ## 注意事项
 
