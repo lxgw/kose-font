@@ -28,11 +28,15 @@ A Chinese Font derived from SetoFont / Naikai Font / cjkFonts-AllSeto.  一款�
 [点击此处](https://github.com/lxgw/kose-font/blob/master/history.md) 查看更新日志。
 
 ## 预览
-![Y6xWLT.png](https://s1.ax1x.com/2020/05/16/Y6xWLT.png)
-![tk6j2j.png](https://s1.ax1x.com/2020/05/27/tk6j2j.png)
-![JDOyIs.png](https://s1.ax1x.com/2020/04/24/JDOyIs.png)
-![YLO5vt.png](https://s1.ax1x.com/2020/05/22/YLO5vt.png)
-![Y6xheU.png](https://s1.ax1x.com/2020/05/16/Y6xheU.png)
+![NQVXBq.png](https://s1.ax1x.com/2020/06/20/NQVXBq.png)  
+![NQVqjs.png](https://s1.ax1x.com/2020/06/20/NQVqjs.png)  
+![NQVOun.png](https://s1.ax1x.com/2020/06/20/NQVOun.png)  
+![NQVH3Q.png](https://s1.ax1x.com/2020/06/20/NQVH3Q.png)  
+![NQVbcj.png](https://s1.ax1x.com/2020/06/20/NQVbcj.png)  
+![NQVo4S.png](https://s1.ax1x.com/2020/06/20/NQVo4S.png)  
+![NQV79g.png](https://s1.ax1x.com/2020/06/20/NQV79g.png)   
+![NQVIN8.png](https://s1.ax1x.com/2020/06/20/NQVIN8.png)   
+![NQV5Af.png](https://s1.ax1x.com/2020/06/20/NQV5Af.png)   
 小赖字体支持很多 OpenType 特性用于排版。[点此查看详情](https://github.com/lxgw/kose-font/blob/master/OpenType_Features.md)
 
 ## 字体下载
