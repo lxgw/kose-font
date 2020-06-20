@@ -5,7 +5,7 @@
   - 讠部  ![NK35Yq.gif](https://s1.ax1x.com/2020/06/19/NK35Yq.gif)
   - 钅部  ![NK37lT.gif](https://s1.ax1x.com/2020/06/19/NK37lT.gif)
   - 其它  ![NK3TpV.gif](https://s1.ax1x.com/2020/06/19/NK3TpV.gif)
-- 新增时间冒号居中特性。
+- 新增时间冒号居中特性。  ![NQV79g.png](https://s1.ax1x.com/2020/06/20/NQV79g.png)
 
 ## ver 2.22 (2020-5-25)
 - 修改了“异”、“阴”、“阳”。  
