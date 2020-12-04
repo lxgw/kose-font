@@ -35,7 +35,6 @@ A Chinese Font derived from SetoFont / Naikai Font / cjkFonts-AllSeto.  一款�
 ![NQVbcj.png](https://s1.ax1x.com/2020/06/20/NQVbcj.png)  
 ![NQVo4S.png](https://s1.ax1x.com/2020/06/20/NQVo4S.png)  
 ![NQV79g.png](https://s1.ax1x.com/2020/06/20/NQV79g.png)   
-![NQVIN8.png](https://s1.ax1x.com/2020/06/20/NQVIN8.png)   
 ![NQV5Af.png](https://s1.ax1x.com/2020/06/20/NQV5Af.png)   
 小赖字体支持很多 OpenType 特性用于排版。[点此查看详情](https://github.com/lxgw/kose-font/blob/master/OpenType_Features.md)
 
@@ -48,10 +47,10 @@ A Chinese Font derived from SetoFont / Naikai Font / cjkFonts-AllSeto.  一款�
 
 ## 注意事项
 
-1. 本字体可以显示所有 GB18030-2000 及“通用规范汉字表”里的所有汉字，不过制作时间比较仓促，不保证里面所有的字形都是中国大陆的规范字形，欢迎大家通过 Issues 反馈。
-2. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感，但是聊胜于无。
-3. 欢迎大家对该字体进行补字或修正，您可以通过下面的联系方式与作者联系。
-4. **XiaolaiMonoSC-Regular** 为等宽版， **XiaolaiSC-Regular** 为比例版，请按需要下载！
+1. **XiaolaiMonoSC-Regular** 为等宽版， **XiaolaiSC-Regular** 为比例版，请按需要下载！
+2. 本字体可以显示所有 GB18030-2000 及“通用规范汉字表”里的所有汉字，不过制作时间比较仓促，不保证里面所有的字形都是中国大陆的规范字形，欢迎大家通过 Issues 反馈。
+3. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感，但是聊胜于无。
+4. 欢迎大家对该字体进行补字或修正，您可以通过下面的联系方式与作者联系。
 
 ## 版权信息
 
@@ -59,7 +58,7 @@ A Chinese Font derived from SetoFont / Naikai Font / cjkFonts-AllSeto.  一款�
 - 本字体基于 SIL Open Font License 1.1 授权条款免费公开，您可以：
   - 免费使用，包括商用，无需付费、告知或标明原作者；
   - 自由分享字体文件，并将其安装在任何软件/设备中；
-  - 在此基础上进行修改或二次创作。
+  - 在此基础上进行修改或二次创作，二次修改的作品需要按照 SIL OFL 1.1 的规定释出。
   
 ## 鸣谢
 - 感谢 [濑户字体](http://setofont.osdn.jp/) 开源项目、Max 的 [内海字体](https://github.com/max32002/naikaifont) 开源项目以及 cjkFonts 的 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 开源项目。
