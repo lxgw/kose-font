@@ -42,7 +42,7 @@ A Chinese Font derived from SetoFont / Naikai Font / cjkFonts-AllSeto.  一款�
 
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
 2. 进入 [码云（Gitee）镜像](https://gitee.com/lxgw2020/kose-font) 点击【克隆/下载】->【下载 ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。 *（供无法正常使用 GitHub 下载功能的地区使用，可能不是最新）*
-3. 进入 [猫啃网](https://www.maoken.com/freefonts/4306.html) 下载 *（由用户“猫啃新人”维护，可能与本项目的更新方向不同。）*
+3. 进入 [猫啃网](https://www.maoken.com/freefonts/4306.html) 下载
 4. 对需要 root 替换系统字体的提供 Magisk 字体替换模块。下载地址： [蓝奏云密码：8h5h](https://lxgw.lanzous.com/b0cqan5yb) ，共 5 字重。 *（由于 Fontforge 速度太慢，使用 FontCreator 加粗/减细，可能有一定的变形，且粗体看起来会糊。）*
 
 ## 注意事项
@@ -57,8 +57,9 @@ A Chinese Font derived from SetoFont / Naikai Font / cjkFonts-AllSeto.  一款�
 - 本字体是基于 SIL Open Font License 1.1 改造的 かにさわ(twinklem_seto) 所开发并发布的 [濑户字体](http://setofont.osdn.jp/) 开源项目、Max 所开发并发布的 [内海字体](https://github.com/max32002/naikaifont) 开源项目以及 cjkFonts 所开发并发布的 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 开源项目。
 - 本字体基于 SIL Open Font License 1.1 授权条款免费公开，您可以：
   - 免费使用，包括商用，无需付费、告知或标明原作者；
-  - 自由分享字体文件，并将其安装在任何软件/设备中；
+  - 自由分享字体文件，并将其安装在任何设备，或嵌入在任何软件中；
   - 在此基础上进行修改或二次创作，二次修改的作品需要按照 SIL OFL 1.1 的规定释出。
+  - **请勿将字体文件倒卖兜售。**
   
 ## 鸣谢
 - 感谢 [濑户字体](http://setofont.osdn.jp/) 开源项目、Max 的 [内海字体](https://github.com/max32002/naikaifont) 开源项目以及 cjkFonts 的 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 开源项目。
@@ -70,7 +71,7 @@ A Chinese Font derived from SetoFont / Naikai Font / cjkFonts-AllSeto.  一款�
 - **微信公众号：** 霞鹜 *（ID: lxgwshare）*
 - **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884)
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
-- **Email：** calxgw2018@gmail.com srtong2006@126.com
+- **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
 
 ## 打赏支持
 [点击进入打赏页面。](https://github.com/lxgw/kose-font/blob/master/Donate.md)
