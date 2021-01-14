@@ -59,7 +59,7 @@ A Chinese Font derived from SetoFont / Naikai Font / cjkFonts-AllSeto.  一款�
   - 免费使用，包括商用，无需付费、告知或标明原作者；
   - 自由分享字体文件，并将其安装在任何设备，或嵌入在任何软件中；
   - 在此基础上进行修改或二次创作，二次修改的作品需要按照 SIL OFL 1.1 的规定释出。
-  - **请勿将字体文件倒卖兜售。**
+  - **请勿单独将字体文件倒卖兜售。**
   
 ## 鸣谢
 - 感谢 [濑户字体](http://setofont.osdn.jp/) 开源项目、Max 的 [内海字体](https://github.com/max32002/naikaifont) 开源项目以及 cjkFonts 的 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 开源项目。
