@@ -65,6 +65,15 @@ A Chinese Font derived from SetoFont / Naikai Font / cjkFonts-AllSeto.  一款�
 - 感谢 [濑户字体](http://setofont.osdn.jp/) 开源项目、Max 的 [内海字体](https://github.com/max32002/naikaifont) 开源项目以及 cjkFonts 的 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 开源项目。
 - 感谢 [猫啃网](http://www.maoken.com) 用户 **猫啃新人** 的修正与优化。 [详情](https://www.maoken.com/freefonts/4306.html)
 
+## 其它项目
+### 日系字体中文化
+- [霞鹜晰黑 / Lxgw Clear Gothic](https://github.com/lxgw/LxgwClearGothic)
+- [霞鹜新晰黑 / Lxgw New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic)
+- [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
+### 975 系列
+- [975 圆体 / 975 Maru](https://github.com/lxgw/975maru)
+- [975 黑体 / 975 Gothic](https://github.com/lxgw/975gothic)
+
 ## 联系作者
 
 - **Telegram：** @lxgwtg
