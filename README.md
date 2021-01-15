@@ -52,14 +52,16 @@ A Chinese Font derived from SetoFont / Naikai Font / cjkFonts-AllSeto.  一款�
 3. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感，但是聊胜于无。
 4. 欢迎大家对该字体进行补字或修正，您可以通过下面的联系方式与作者联系。
 
-## 版权信息
-
-- 本字体是基于 SIL Open Font License 1.1 改造的 かにさわ(twinklem_seto) 所开发并发布的 [濑户字体](http://setofont.osdn.jp/) 开源项目、Max 所开发并发布的 [内海字体](https://github.com/max32002/naikaifont) 开源项目以及 cjkFonts 所开发并发布的 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 开源项目。
-- 本字体基于 SIL Open Font License 1.1 授权条款免费公开，您可以：
-  - 免费使用，包括商用，无需付费、告知或标明原作者；
-  - 自由分享字体文件，并将其安装在任何设备，或嵌入在任何软件中；
-  - 在此基础上进行修改或二次创作，二次修改的作品需要按照 SIL OFL 1.1 的规定释出。
-  - **请勿单独将字体文件倒卖兜售。**
+## 授权信息
+- 本字体是基于 SIL Open Font License 1.1 改造的 かにさわ(twinklem_seto) 所开发并发布的 [濑户字体](http://setofont.osdn.jp/) 开源项目、Max 所开发并发布的 [内海字体](https://github.com/max32002/naikaifont) 开源项目以及 cjkFonts 所开发并发布的 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 开源项目。保留名称「小赖」「Xiaolai」「小濑」「Kose」。
+### 许可：
+- 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。 *（但如果告知，我会很感激。）*
+- 这款字体可以自由传播、分享，或者将字体安装于系统、软件或APP中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。
+- 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样以 [SIL OFL](https://scripts.sil.org/OFL) 公开。
+### 限制：
+- 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。
+- 这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。
+- 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
   
 ## 鸣谢
 - 感谢 [濑户字体](http://setofont.osdn.jp/) 开源项目、Max 的 [内海字体](https://github.com/max32002/naikaifont) 开源项目以及 cjkFonts 的 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 开源项目。
