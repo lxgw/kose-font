@@ -68,7 +68,7 @@ A Chinese Font derived from SetoFont / Naikai Font / cjkFonts-AllSeto.  一款�
 - 感谢 [猫啃网](http://www.maoken.com) 用户 **猫啃新人** 的修正与优化。 [详情](https://www.maoken.com/freefonts/4306.html)
 
 ## 由本字体衍生的字体
-- [萌神拼音手写体]()
+- [萌神拼音手写体](https://github.com/MaruTama/Mengshen-pinyin-font)
 
 ## 其它项目
 ### 日系字体中文化
