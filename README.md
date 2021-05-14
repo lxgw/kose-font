@@ -90,4 +90,4 @@ A Chinese Font derived from SetoFont / Naikai Font / cjkFonts-AllSeto.  一款�
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
 
 ## 打赏支持
-[点击进入打赏页面。](https://github.com/lxgw/kose-font/blob/master/Donate.md)
+[点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)
