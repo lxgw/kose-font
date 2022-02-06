@@ -75,8 +75,9 @@ A Chinese Font derived from SetoFont / Naikai Font / cjkFonts-AllSeto.  一款�
 - [霞鹜晰黑 / Lxgw Clear Gothic](https://github.com/lxgw/LxgwClearGothic)
 - [霞鹜新晰黑 / Lxgw New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
-- [霞鹜漫黑 / Lxgw Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic) BETA
-- [霞鹜文楷 / Lxgw WenKai](https://github.com/lxgw/LxgwWenKai) DEMO
+- [霞鹜漫黑 / Lxgw Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic) 
+- [霞鹜文楷 / Lxgw WenKai](https://github.com/lxgw/LxgwWenKai) | [轻便版](https://github.com/lxgw/LxgwWenKai-Lite) | [屏幕阅读版](https://github.com/lxgw/LxgwWenKai-Screen)
+- [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)
 ### 975 系列
 - [975 圆体 / 975 Maru](https://github.com/lxgw/975maru)
 - [975 黑体 / 975 Gothic](https://github.com/lxgw/975gothic)
