@@ -57,7 +57,7 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 4. 欢迎大家对该字体进行补字或修正，您可以通过下面的联系方式与作者联系。
 
 ## 授权信息
-本字体是基于 SIL Open Font License 1.1 改造的 かにさわ(twinklem_seto) 所开发并发布的 [濑户字体](http://setofont.osdn.jp/) 开源项目.
+本字体是基于 SIL Open Font License 1.1 改造的 かにさわ(twinklem_seto) 所开发并发布的 [濑户字体](http://setofont.osdn.jp/) 开源项目。
 <!--、Max 所开发并发布的 [内海字体](https://github.com/max32002/naikaifont) 开源项目以及 cjkFonts 所开发并发布的 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 开源项目。-->
 保留名称「小赖」「Xiaolai」「小濑」「Kose」。
 ### 许可
