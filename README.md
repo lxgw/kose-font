@@ -21,7 +21,7 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 
 ## 字体概况
 
-本字体是 [濑户字体](http://setofont.osdn.jp/) / [内海字体](https://github.com/max32002/naikaifont) 的简体中文化改良，利用濑户/内海字体里原有的部件，对原字体中缺少的汉字进行补足，主要为 GB2312 及《通用规范汉字表》里的汉字，其余的汉字、谚文、特殊符号用 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 补全。现有 CJK 基本区汉字 20949 个，扩展 A 区汉字 6582 个，B 区汉字 368 个，C 区汉字 44 个，D 区汉字 9 个，E 区汉字 108 个，F 区汉字 1 个（「韡」的简体字「𮧵（U+2E9F5）」），G 区汉字 2 个（biáng 字的简繁体「𰻝」（U+30EDD）「𰻞」（U+30EDE））。
+本字体是 [濑户字体](http://setofont.osdn.jp/) 的简体中文化改良，利用濑户字体里原有的部件，对原字体中缺少的汉字进行补足，主要为 GB2312 及《通用规范汉字表》里的汉字，其余的汉字、谚文、特殊符号用 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 补全。现有 CJK 基本区汉字 20949 个，扩展 A 区汉字 6582 个，B 区汉字 368 个，C 区汉字 44 个，D 区汉字 9 个，E 区汉字 108 个，F 区汉字 1 个（「韡」的简体字「𮧵（U+2E9F5）」），G 区汉字 2 个（biáng 字的简繁体「𰻝」（U+30EDD）「𰻞」（U+30EDE））。
 
 该字体可显示 GB18030-2000 范围内的全部汉字（共 27484 个），以及《通用规范汉字表》里的全部汉字（共 8105 个），满足中国大陆用户的使用需要。此外可显示日文假名、谚文 *（韩文、朝鲜文）* 音节和思源黑体可以显示的特殊符号，可直接用作手机字体。
 
@@ -66,11 +66,10 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 - 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样以 [SIL OFL](https://scripts.sil.org/OFL) 公开。
 ### 限制
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。
-- 这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。
 - 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
   
 ## 鸣谢
-- 感谢 [濑户字体](http://setofont.osdn.jp/) 开源项目
+- 感谢 [濑户字体](http://setofont.osdn.jp/) 开源项目。
 <!-- Max 的 [内海字体](https://github.com/max32002/naikaifont) 开源项目以及 cjkFonts 的 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 开源项目。-->
 - 感谢 [猫啃网](http://www.maoken.com) 用户 **猫啃新人** 的修正与优化。 [详情](https://www.maoken.com/freefonts/4306.html)
 
