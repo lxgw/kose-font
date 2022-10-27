@@ -79,7 +79,7 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 ## 其它项目
 ### 日系字体中文化
 - [霞鹜晰黑 / Lxgw Clear Gothic](https://github.com/lxgw/LxgwClearGothic)
-- [霞鹜新晰黑 / Lxgw New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic)
+- [霞鹜新晰黑 / Lxgw Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
 - [霞鹜漫黑 / Lxgw Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic) 
 - [霞鹜文楷 / Lxgw WenKai](https://github.com/lxgw/LxgwWenKai) | [轻便版](https://github.com/lxgw/LxgwWenKai-Lite) | [屏幕阅读版](https://github.com/lxgw/LxgwWenKai-Screen)
