@@ -10,10 +10,9 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 
 [濑户字体](http://setofont.osdn.jp/) 是由日本的业余字体设计师 瀬戸のぞみ 制作，支持 JIS 第一至第四级，支持繁体和简体中文（部分）。目前最新的版本是 2014 年 9 月 24 日的 6.20 版本，原作者已经很久不更新了。
 
-<!-- 后来，Max 在原来的「濑户字体」基础上，推出了 [内海字体](https://github.com/max32002/naikaifont) ，补齐了台湾教育部门列出的 4808 个常用字，并增加了闽南语、粤语常用字，弥补了繁体中文地区常用字缺字缺憾。
+后来，Max 在原来的「濑户字体」基础上，推出了 [内海字体](https://github.com/max32002/naikaifont) ，补齐了台湾教育部门列出的 4808 个常用字，并增加了闽南语、粤语常用字，弥补了繁体中文地区常用字缺字缺憾。
 
-但是，-->
-这款可爱的开源字体，仍然缺少一部分简体字，这对于大陆的用户来说，可能会造成一些不便。
+但是，这款可爱的开源字体，仍然缺少一部分简体字，这对于大陆的用户来说，可能会造成一些不便。
 
 于是，本人开启了 [“濑户内海字体简体补全计划”](https://github.com/lxgw/seto-naikai-font-supplement-for-sc) ，旨在补足 [濑户字体](http://setofont.osdn.jp/) 缺少的简体字。 [**小赖字体**](https://github.com/lxgw/kose-font/) 是这一计划的延续。 
 
@@ -57,8 +56,7 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 4. 欢迎大家对该字体进行补字或修正，您可以通过下面的联系方式与作者联系。
 
 ## 授权信息
-本字体是基于 SIL Open Font License 1.1 改造的 かにさわ(twinklem_seto) 所开发并发布的 [濑户字体](http://setofont.osdn.jp/) 开源项目。
-<!--、Max 所开发并发布的 [内海字体](https://github.com/max32002/naikaifont) 开源项目以及 cjkFonts 所开发并发布的 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 开源项目。-->
+本字体是基于 SIL Open Font License 1.1 改造的 かにさわ(twinklem_seto) 所开发并发布的 [濑户字体](http://setofont.osdn.jp/) 开源项目、Max 所开发并发布的 [内海字体](https://github.com/max32002/naikaifont) 开源项目以及 cjkFonts 所开发并发布的 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 开源项目。
 保留名称「小赖」「Xiaolai」「小濑」「Kose」。
 ### 许可
 - 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。 *（但如果告知，我会很感激。）*
@@ -69,8 +67,7 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 - 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
   
 ## 鸣谢
-- 感谢 [濑户字体](http://setofont.osdn.jp/) 开源项目。
-<!-- Max 的 [内海字体](https://github.com/max32002/naikaifont) 开源项目以及 cjkFonts 的 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 开源项目。-->
+- 感谢 [濑户字体](http://setofont.osdn.jp/) 开源项目、Max 的 [内海字体](https://github.com/max32002/naikaifont) 开源项目以及 cjkFonts 的 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 开源项目。
 - 感谢 [猫啃网](http://www.maoken.com) 用户 **猫啃新人** 的修正与优化。 [详情](https://www.maoken.com/freefonts/4306.html)
 
 ## 由本字体衍生的字体
