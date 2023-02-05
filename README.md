@@ -95,3 +95,9 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 
 ## 打赏支持
 [点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/lxgw/kose-font.svg)](https://starchart.cc/lxgw/kose-font)
+
