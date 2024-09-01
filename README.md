@@ -29,7 +29,9 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 
 ## 更新日志
 
-[点击此处](https://github.com/lxgw/kose-font/blob/master/history.md) 查看更新日志。
+移步 [Releases](https://github.com/lxgw/kose-font/releases) 查看。
+
+[点击此处](https://github.com/lxgw/kose-font/blob/master/history.md) 查看以往更新日志。
 
 ## 预览
 ![NQVXBq.png](https://s1.ax1x.com/2020/06/20/NQVXBq.png)  
