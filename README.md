@@ -24,7 +24,7 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 
 该字体可显示 GB 18030-2022 实现级别 2 范围内的全部汉字，以及《通用规范汉字表》里的全部汉字（共 8105 个），满足中国大陆用户的使用需要。此外可显示日文假名、谚文 *（韩文、朝鲜文）* 音节和思源黑体可以显示的特殊符号字体。
 
-此外新增日本写法的字体，保留「濑户字体」原汁原味的日系风格。日本版保留原 **「小濑字体（Kosefont-JP）」** 名称，且不再更新维护。
+此外新增日本写法的字体，保留「濑户字体」原汁原味的日系风格。日本版保留原 **「小濑字体（Kosefont-JP）」** 名称，且不再更新维护，可在本仓库内「TTF (Japanese)」文件夹内下载。
 
 ## 更新日志
 
@@ -43,17 +43,16 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 
 ## 字体下载
 
-1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
-2. 进入 [码云（Gitee）镜像](https://gitee.com/lxgw2020/kose-font) 点击【克隆/下载】->【下载 ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。 *（供无法正常使用 GitHub 下载功能的地区使用，可能不是最新）*
-3. 进入 [猫啃网](https://www.maoken.com/freefonts/4306.html)、[字加](https://www.zijia.com.cn/6572.html) 下载
-4. 对需要 root 替换系统字体的提供 Magisk 字体替换模块。下载地址： [蓝奏云密码：8h5h](https://lxgw.lanzoui.com/b0cqan5yb) ，共 5 字重。 *（由于 Fontforge 速度太慢，使用 FontCreator 加粗/减细，可能有一定的变形，且粗体看起来会糊。）*
+1. 进入 [Releases](https://github.com/lxgw/kose-font/releases) 界面下载。
+2. 进入 [猫啃网](https://www.maoken.com/freefonts/4306.html)、[字加](https://www.zijia.com.cn/6572.html) 下载。
+3. 对需要 root 替换系统字体的提供 Magisk 字体替换模块。下载地址： [蓝奏云密码：8h5h](https://lxgw.lanzoui.com/b0cqan5yb) ，单字重。
 
 ## 注意事项
 
 1. **XiaolaiMonoSC-Regular** 为等宽版， **XiaolaiSC-Regular** 为比例版，请按需要下载！
 2. 本字体可以可显示 GB 18030-2022 实现级别 2 范围内的全部汉字，不过制作时间比较仓促，不保证里面所有的字形都是中国大陆的规范字形，欢迎大家通过 Issues 反馈。
 3. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感，但是聊胜于无。
-4. 欢迎大家对该字体进行补字或修正，您可以通过下面的联系方式与作者联系。
+4. 欢迎大家对该字体再次衍生，您可以通过下面的联系方式与作者联系。
 
 ## 授权信息
 本字体是基于 SIL Open Font License 1.1 改造的 かにさわ(twinklem_seto) 所开发并发布的 [濑户字体](http://setofont.osdn.jp/) 开源项目、Max 所开发并发布的 [内海字体](https://github.com/max32002/naikaifont) 开源项目以及 cjkFonts 所开发并发布的 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 开源项目。
