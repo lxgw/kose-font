@@ -20,11 +20,11 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 
 ## 字体概况
 
-本字体是 [濑户字体](http://setofont.osdn.jp/) 的简体中文化改良，利用濑户字体里原有的部件，对原字体中缺少的汉字进行补足，主要为 GB2312 及《通用规范汉字表》里的汉字，其余的汉字、谚文、特殊符号用 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 补全。现有 CJK 基本区汉字 20949 个，扩展 A 区汉字 6582 个，B 区汉字 368 个，C 区汉字 44 个，D 区汉字 9 个，E 区汉字 108 个，F 区汉字 1 个（「韡」的简体字「𮧵（U+2E9F5）」），G 区汉字 2 个（biáng 字的简繁体「𰻝」（U+30EDD）「𰻞」（U+30EDE））。
+本字体是 [濑户字体](http://setofont.osdn.jp/) 的简体中文化改良，利用濑户字体里原有的部件，对原字体中缺少的汉字进行补足，主要为 GB2312 及《通用规范汉字表》里的汉字，其余的汉字、谚文、特殊符号用 [cjkFonts 全濑体](https://www.cjkfonts.io/blog/cjkfonts_allseto) 补全。现有 CJK 基本区汉字 20992 个，扩展 A 区汉字 6592 个，另有零星扩展 B～I 区汉字。
 
-该字体可显示 GB18030-2000 范围内的全部汉字（共 27484 个），以及《通用规范汉字表》里的全部汉字（共 8105 个），满足中国大陆用户的使用需要。此外可显示日文假名、谚文 *（韩文、朝鲜文）* 音节和思源黑体可以显示的特殊符号，可直接用作手机字体。
+该字体可显示 GB 18030-2022 实现级别 2 范围内的全部汉字，以及《通用规范汉字表》里的全部汉字（共 8105 个），满足中国大陆用户的使用需要。此外可显示日文假名、谚文 *（韩文、朝鲜文）* 音节和思源黑体可以显示的特殊符号字体。
 
-此外新增日本写法的字体，保留「濑户字体」原汁原味的日系风格。日本版保留原 **「小濑字体（Kosefont-JP）」** 名称。
+此外新增日本写法的字体，保留「濑户字体」原汁原味的日系风格。日本版保留原 **「小濑字体（Kosefont-JP）」** 名称，且不再更新维护。
 
 ## 更新日志
 
@@ -51,7 +51,7 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 ## 注意事项
 
 1. **XiaolaiMonoSC-Regular** 为等宽版， **XiaolaiSC-Regular** 为比例版，请按需要下载！
-2. 本字体可以显示所有 GB18030-2000 及“通用规范汉字表”里的所有汉字，不过制作时间比较仓促，不保证里面所有的字形都是中国大陆的规范字形，欢迎大家通过 Issues 反馈。
+2. 本字体可以可显示 GB 18030-2022 实现级别 2 范围内的全部汉字，不过制作时间比较仓促，不保证里面所有的字形都是中国大陆的规范字形，欢迎大家通过 Issues 反馈。
 3. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感，但是聊胜于无。
 4. 欢迎大家对该字体进行补字或修正，您可以通过下面的联系方式与作者联系。
 
@@ -76,19 +76,23 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 ## 由本字体衍生的字体
 - [萌神拼音手写体](https://github.com/MaruTama/Mengshen-pinyin-font)
 
-## 其它项目
-### 日系字体中文化
-- ~~[霞鹜晰黑 / LXGW Clear Gothic](https://github.com/lxgw/LxgwClearGothic)~~
+## 更多「霞鹜」系列字体
+### 「霞鹜文楷」系列
+- [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
+- [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
+- [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenKaiTC)
+### 「晰致尚铭」系列
 - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
 - [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
+- [霞鹜晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)
+- [霞鹜致宋 / LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong)
+- [霞鹜尚智黑 / LXGW Fasmart Gothic](https://github.com/lxgw/LxgwFasmartGothic)
+- [霞鹜铭心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif)
+### 其他
+- [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
+- 小赖字体 / Xiaolai
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
-- [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic) 
-- [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [传承字形](https://github.com/lxgw/LxgwWenKaiTC) | [国标字形](https://github.com/lxgw/LxgwWenkaiGB)
-- ~~[霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)~~
-### 975 系列
-- [975 圆体 / 975 Maru](https://github.com/lxgw/975maru)
-- [975 黑体 / 975 Gothic](https://github.com/lxgw/975gothic)
-
+  
 
 ## 关注作者
 - **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwfont)
