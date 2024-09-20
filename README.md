@@ -88,11 +88,12 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 - [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
 - [霞鹜晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)
 - [霞鹜致宋 / LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong)
-- [霞鹜尚智黑 / LXGW Fasmart Gothic](https://github.com/lxgw/LxgwFasmartGothic)
-- [霞鹜铭心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif)
+- [霞鹜尚智黑 / LXGW Fasmart Gothic](https://github.com/lxgw/LxgwFasmartGothic) 停止维护
+- [霞鹜铭心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif) 停止维护
 ### 其他
 - [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
-- 小赖字体 / Xiaolai
+- [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai) 停止维护
+- **小赖字体 / Xiaolai**
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
   
 
