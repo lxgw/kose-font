@@ -92,7 +92,7 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 - [霞鹜铭心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif) 停止维护
 ### 其他
 - [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
-- [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai) 停止维护
+- [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)
 - **小赖字体 / Xiaolai**
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
   
