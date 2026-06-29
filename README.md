@@ -67,7 +67,7 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 > [猫啃网](https://www.maoken.com/)提供 SIL Open Font License 1.1 非官方[简体中文译本](https://www.maoken.com/ofl)便于理解，仅供参考。
 
 ### 许可
-- 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。（但如果告知，我会很感激。🫶）
+- 这款字体无论是个人还是企业都可以自由使用，包括商用，无需付费，也无需另行知会原作者。（但如果告知，我会很感激。🫶）
 - 这款字体可以自由传播、分享，或者将字体安装于系统、嵌入于软件或 APP 中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。
 - 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样遵守 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 所规定的条款与条件。
 
