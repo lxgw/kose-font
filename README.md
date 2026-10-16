@@ -82,7 +82,7 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 ## 由本字体衍生的字体
 - [萌神拼音手写体](https://github.com/MaruTama/Mengshen-pinyin-font)
 
-## 更多「霞鹜」系列字体
+## 更多「霞鹜」开源字体
 ### 「霞鹜文楷」系列
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
 - [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
@@ -112,7 +112,12 @@ A Chinese Font derived from SetoFont.  一款衍生于 [濑户字体](http://set
 [点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)
 
 
-## Stargazers over time
+## Star History
 
-[![Stargazers over time](https://starchart.cc/lxgw/kose-font.svg)](https://starchart.cc/lxgw/kose-font)
-
+<a href="https://www.star-history.com/?repos=lxgw%2Fkose-font&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=lxgw/kose-font&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=lxgw/kose-font&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=lxgw/kose-font&type=date&legend=top-left" />
+ </picture>
+</a>
