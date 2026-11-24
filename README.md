@@ -1,6 +1,8 @@
 > [!CAUTION]
 > 
-> 近来发现，包括本字体在内的众多开源字体在淘宝、小红书等平台被不法商家倒卖，违反了 OFL 1.1 中「不得单独售卖字体文件」的条款。如您遇到此类店铺贩售本字体，**请不要购买！** 您支付的款项**不会**流向作者，您也**无法**获得任何更新或支持。
+> 近来发现，包括本字体在内的众多开源字体在淘宝、小红书、闲鱼（含鱼小铺）等平台被部分商户倒卖。
+>  - 贩售**单款**字体的行为，直接违反 [OFL 1.1 「许可与条件」](https://openfontlicense.org/open-font-license-official-text/)第 1 条（字体软件及其任何独立组件，不得单独出售）。如您遇到某些店铺贩售此类单款字体，**请不要购买**。
+>  - 贩售**多款 OFL 字体组成的合集**，可适用「聚合（aggregate）豁免」。OFL 作为通过 OSI 认证的许可证，必须允许这类行为，否则将违反[《OSI 开源定义》](https://open-source.org.cn/osd)第一条「自由再分发（Free Redistribution）」（可参考 [OFL 官方 FAQ 第 1.5 条](https://openfontlicense.org/ofl-faq/)及 [OSI 邮件列表中的相关确认](http://lists.opensource.org/pipermail/license-review_lists.opensource.org/2008-November/000396.html)）。因此，将多款 OFL 字体（包括本字体）打包贩售的行为，在满足 OFL 所规定的其他条款的前提下，属于协议层面的合规聚合分发，不构成违约或对本人著作权的侵害。如您遇到某些店铺贩售此类字体合集，**购买前请知悉：您支付的款项不会流向作者，您也无法获得任何更新或支持**。
 
 > [!IMPORTANT]
 > **本项目现已进入稳定维护期。**
